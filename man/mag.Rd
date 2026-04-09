@@ -4,7 +4,7 @@
 \alias{mag}
 \title{Calculate the Mean Absolute Glucose (MAG)}
 \usage{
-mag(data, n = 60L, dt0 = NULL, inter_gap = 45, tz = "", max_gap = 45,
+mag(data, n = NULL, dt0 = NULL, inter_gap = 45, tz = "", max_gap = 45,
 interpolate = FALSE)
 }
 \arguments{

@@ -1,5 +1,6 @@
 # iglu 4.4.0
 * Added option to compute MAG using raw or interpolated data 
+* Default is now using raw data instead of interpolated
 
 # iglu 4.3.0
 * Updated MAG computation in the presence of large missing data
